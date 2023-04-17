@@ -1,0 +1,1 @@
+$ pyreverse -my -A -o png -p myprojectname .
